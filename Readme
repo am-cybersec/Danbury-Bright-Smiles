@@ -1,0 +1,67 @@
+# Danbury Bright Smiles — Dental Practice Website
+
+A professional, fully responsive business website designed and developed for **Danbury Bright Smiles**, a US-based family and cosmetic dental practice in Danbury, CT. Delivered completely remotely as a freelance project.
+
+## 🌐 Live Preview
+
+> Open `index.html` in any browser — no server required.
+
+## ✨ Features
+
+- **Responsive design** — works on mobile, tablet, and desktop
+- **Bilingual support** — English / Spanish language switcher
+- **Animated hero section** — SVG smile trace animation + ambient bubble effects
+- **Services section** — interactive cards with modal popups for each service
+- **Appointment booking modal** — patient-friendly form
+- **Contact form** — with success feedback
+- **Google Maps embed** — clinic location
+- **Scroll reveal animations** — smooth entrance effects
+- **Sticky navbar** — with shadow on scroll
+- **Patient testimonials** — review cards
+- **Trust strip** — key stats (18+ years, 12,000+ patients, 4.9★ rating)
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3 (Custom Properties / CSS Variables)
+- JavaScript (Vanilla)
+- Bootstrap 5.3
+- Google Fonts (Fraunces + Inter)
+
+## 📁 Project Structure
+
+```
+danbury-bright-smiles/
+└── index.html       # Complete single-file website
+```
+
+## 🚀 How to Run
+
+```bash
+# Clone the repo
+git clone https://github.com/am-cybersec/Danbury-Bright-Smiles
+
+# Open in browser
+open index.html
+```
+
+## 💼 Project Context
+
+| Detail | Info |
+|---|---|
+| Client | Danbury Bright Smiles (USA) |
+| Type | Freelance — Remote Project |
+| Role | Designer & Developer |
+| Delivery | Fully remote from Pakistan |
+
+## 📸 Screenshots
+
+![Hero Section](screenshot.png)
+
+## 🔑 Key Highlights
+
+- Built bilingual (EN/ES) switcher using vanilla JS data attributes
+- Animated SVG smile illustration in hero section
+- Intersection Observer API for scroll-based reveal animations
+- Service detail modals with dynamic content injection
+- Zero external JS dependencies beyond Bootstrap
