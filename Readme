@@ -32,14 +32,12 @@ A professional, fully responsive business website designed and developed for **D
 
 ```
 danbury-bright-smiles/
-└── index.html       # Complete single-file website
+└── index.html       
 ```
 
 ## 🚀 How to Run
 
-```bash
-# Clone the repo
-git clone https://github.com/am-cybersec/Danbury-Bright-Smiles
+
 
 # Open in browser
 open index.html
